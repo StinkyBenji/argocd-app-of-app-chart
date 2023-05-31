@@ -2,6 +2,7 @@ default:
   project:
 
   app:
+    isHelm: false
     enableAutoSync: null
     autoSyncPrune: true
     destination:
